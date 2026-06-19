@@ -9,9 +9,9 @@ Seeking internship opportunities in Web design, backend, and IoT development.
 
 ## I can use
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,php,cpp,cs,c,vscode,mysql,figma,ps,wordpress,arduino,raspberrypi,linux" />
+</p>
 
 ## Socials
 
