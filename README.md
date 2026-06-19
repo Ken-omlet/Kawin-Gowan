@@ -65,6 +65,17 @@ Seeking internship opportunities in web development, backend engineering, and Io
 </p>
 
 ## Connect with Me
-<a href="https://github.com/Ken-omlet">
+
+<p align="left">
+  <a href="mailto:kawingowan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-kawingowan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Ken-omlet">
   <img src="https://skillicons.dev/icons?i=github" height="50" />
-</a>
+  </a>
+
+  <a href="https://www.facebook.com/kawin.gowan.3?locale=th_TH">
+    <img src="https://img.shields.io/badge/Facebook-Kawin%20Gowan-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
