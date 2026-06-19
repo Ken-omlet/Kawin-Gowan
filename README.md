@@ -1,13 +1,13 @@
 # Hello! My name is Kawin Gowan
 
-## Student
+## About me
 
-Seeking internship opportunities in Web design, backend, and IoT development.
+Seeking internship opportunities in web development, backend engineering, and IoT development.
 
 - 🗺️ I'm live in Bankok, Thailand
 - 📱 You can contact me at kawingowan@gmail.com
 
-## I can use
+## Skills
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
@@ -63,8 +63,7 @@ Seeking internship opportunities in Web design, backend, and IoT development.
   </a>
 </p>
 
-## Socials
-
+## Connect with Me
 <a href="https://github.com/Ken-omlet">
   <img src="https://skillicons.dev/icons?i=github" height="50" />
 </a>
