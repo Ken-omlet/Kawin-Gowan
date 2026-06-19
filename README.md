@@ -42,6 +42,10 @@ Seeking internship opportunities in web development, backend engineering, and Io
     <img src="https://skillicons.dev/icons?i=figma" height="50" alt="Figma"/>
   </a>
 
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux" height="50" alt="Linux"/>
+  </a>
+
   <a href="https://wordpress.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=wordpress" height="50" alt="WordPress"/>
   </a>
@@ -58,9 +62,6 @@ Seeking internship opportunities in web development, backend engineering, and Io
     <img src="https://skillicons.dev/icons?i=raspberrypi" height="50" alt="Raspberry Pi"/>
   </a>
 
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux" height="50" alt="Linux"/>
-  </a>
 </p>
 
 ## Connect with Me
