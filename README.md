@@ -4,7 +4,7 @@
 
 Seeking internship opportunities in web development, backend engineering, and IoT development.
 - My name is **Ken**, and I am 21 years old. I currently live in Bangkok, Thailand.
-- 📱 You can contact me at kawingowan@gmail.com
+- You can contact me at kawingowan@gmail.com
 
 ## Skills
 
